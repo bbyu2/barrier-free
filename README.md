@@ -49,27 +49,27 @@
 - apache tomcat 9.0
 
 ### 기술 스택
-- FrontEnd
+- <b>FrontEnd</b>
     - Html
     - CSS
     - JavaScript, jQuery , Ajax
-- BackEnd
+- <b>BackEnd</b>
     - Java
     - SpringBoot
     - Mybatis
-- DB
+- <b>DB</b>
     - MySQL
 
-- IDE
+- <b>IDE</b>
     - STS
 
-- API TEST
+- <b>API TEST</b>
    - POSTMAN
-- Server 
-  -  GCP(배포시)
+- <b>Server</b> 
+  -  AWS
  
 ### 시스템 구성도
-![image](https://user-images.githubusercontent.com/38625842/165111460-c7b5307d-31a9-4172-b327-f737110c2396.png)
+![image](https://user-images.githubusercontent.com/84059211/212463117-7dc70f50-fd06-4c4f-9fb7-bf67c0afdc25.png)
 
 ### 데이터 베이스
 ![image](https://user-images.githubusercontent.com/38625842/165112208-a3beb72a-3613-45f3-894f-8452f9a9d7c4.png)
@@ -242,5 +242,5 @@ TTS 기능
 ```
 관리자 – 회원관리
 회원정보 수정 / 삭제 할 수 있는 기능
-``
+```
 
