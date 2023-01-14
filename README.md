@@ -11,6 +11,8 @@
 
 [5. 구현화면-관리자](#구현화면-관리자)
 
+<br/>
+
 ## 개요
 - Open API와 AI를 활용하여 모두가 편하고 행복한 여행을 즐길 수 있게 도움을 주는 무장애 여행 웹페이지 제작 
 
@@ -37,8 +39,7 @@
 - 시각장애인의 접근성을 높이기 위한 TTS 기능 활용
 - 제주도에서의 관광약자들을 위한 OPEN API기반 여행 정보 소개 웹 어플리케이션 
 
-### 접속주소
-- http://barrier-free.tk/
+<br/>
 
 ## 개발환경
 ### 의존성
@@ -73,6 +74,8 @@
 ### 데이터 베이스
 ![image](https://user-images.githubusercontent.com/38625842/165112208-a3beb72a-3613-45f3-894f-8452f9a9d7c4.png)
 
+<br/>
+
 ## 실행방법
 ```
   $ ./gradlew build
@@ -81,6 +84,8 @@
   $ java -Dfile-encoding=UTF-8 -jar barrier-free.war
   $ java -jar barrier-free.war 
 ```
+
+<br/>
 
 ## 구현화면-사용자
 
@@ -212,6 +217,7 @@ TTS 기능
 ### 12. 코디네이터 연결
 ![image](https://user-images.githubusercontent.com/38625842/165119340-7d1ce1eb-e38e-4403-ab0b-f477f107b76f.png)
 
+<br/>
 
 ## 구현화면-관리자
 ### 1. 관리자 로그인
