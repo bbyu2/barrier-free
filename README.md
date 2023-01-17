@@ -209,7 +209,7 @@ TTS 기능
 글 생성, 수성, 삭제 가능
 ```
 ### 11. 공지/문의사항
-![barrier-free tk_board_boardList_form](https://user-images.githubusercontent.com/38625842/165120704-2d043947-b6c1-4b03-8fec-800b9f1739f4.png)
+![image](https://user-images.githubusercontent.com/84059211/212830235-6b2da82e-7242-453d-99db-e6538f3bbcab.png)
 ```
 문의사항
 문의사항 생성, 수정, 삭제 가능
